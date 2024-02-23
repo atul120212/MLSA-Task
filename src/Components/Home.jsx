@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/R.jpg";
+import image from "../images/ra.jpg";
 
 const imageAltText = "I am enthusiatic about learning new Technologies. I am a Full Stack Developer and worked in various technologies like Python, Django, Flutter, Dart, PostgreSQL, MongoDB.";
 
