@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/robots.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Face_recognition_Attendance 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A face recognition based attendance system using Python, OpenCV, and face_recognition library. It can be used to mark attendance for multiple students in a classroom. It also stores the attendance in a CSV file.",
+    url: "https://github.com/atul120212/Face_recognition_Attendance",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Fruit_Detection_frontend",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A web application that detects the fruit in the image and tells the name of the fruit. It is made using python and streamlit. It uses the model for the detection of the fruit.",
+    url: "https://github.com/atul120212/Fruit_Detection_frontend",
   },
   {
-    title: "My Resume Site",
+    title: "Calories_Advisor",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A web application that helps you to calculate your daily calories intake and also suggest you the diet plan according to your goal. It is made using python and streamlit",
+    url: "https://github.com/atul120212/Calories_Advisor",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GenBlog",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A blog website where you can write your blogs and also read others blogs. It is made using Django. It also has the feature of authentication and authorization.",
+    url: "https://github.com/atul120212/GenBlog",
   },
 ];
 
